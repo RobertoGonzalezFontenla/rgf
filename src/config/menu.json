@@ -1,28 +1,29 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
+  "name": "Contáctame en LinkedIn",
+  "url": "https://www.linkedin.com/in/robertogonzalezfontenla"
+},
+    
     {
-      "name": "Contact",
-      "url": "/contact"
-    },
+  "name": "Mi canal en YouTube",
+  "url": "https://www.youtube.com/@RobertoGonzalezFontenla"
+},
+    
+
+
     {
-      "name": "Pages",
+      "name": "Páginas",
       "url": "",
       "hasChildren": true,
       "children": [
+         
         {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
+          "name": "Categorías",
           "url": "/categories"
         },
         {
@@ -30,23 +31,19 @@
           "url": "/tags"
         },
         {
-          "name": "Elements",
+          "name": "Estilos-post",
           "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
         }
       ]
     }
   ],
   "footer": [
     {
-      "name": "About",
+      "name": "Sobre Roberto",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contactar",
       "url": "/contact"
     },
     {
