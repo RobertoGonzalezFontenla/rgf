@@ -1,5 +1,5 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Pedazo blog"
 meta_title: ""
 description: "meta description"
 date: 2025-04-01T05:00:00Z
